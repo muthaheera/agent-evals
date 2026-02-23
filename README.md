@@ -197,10 +197,6 @@ Saved experiments are written to `./experiment_files/` (git-ignored).
 - **Medium Article** — [Read the full guide](#)
 - **Author LinkedIn** — [Muthaheera Yasmeena](https://www.linkedin.com/in/muthaheera-yasmeena-belgur-shamiullah-9954ab29)
 
----
-
-
-⭐ Star this repo to get notified when Part 2 drops.
 
 ---
 
