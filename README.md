@@ -199,12 +199,6 @@ Saved experiments are written to `./experiment_files/` (git-ignored).
 
 ---
 
-## 📌 Coming Next
-
-**Part 2 — Scaling to 10,000+ Evals with AWS ECS Fargate + Docker**
-- Containerizing the eval runner
-- Parallel execution across large datasets
-- CloudWatch dashboard for continuous production monitoring
 
 ⭐ Star this repo to get notified when Part 2 drops.
 
