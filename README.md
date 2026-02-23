@@ -5,7 +5,6 @@
 A companion repo to the Medium article series:
 > *"Evaluating Strands Agents with the Official Evals SDK"* — [Read on Medium](#)
 
-Built by [Muthaheera Yasmeena](https://www.linkedin.com/in/muthaheera-yasmeena-belgur-shamiullah-9954ab29) · AI Quality Engineering Leader at Amazon · 15+ years building evaluation infrastructure for production AI systems.
 
 ---
 
@@ -217,4 +216,3 @@ Found a bug or want to add an example? PRs are welcome. Open an issue first to d
 
 ---
 
-*Built with ❤️ by someone who has run agent evals in production across 7+ AI applications at Amazon.*
